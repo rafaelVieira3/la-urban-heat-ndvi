@@ -23,9 +23,12 @@ How does vegetation cover (NDVI) relate to land surface temperature (LST) across
 - From the NDVI 0.2 bin to the NDVI 0.7 bin, mean land surface temperature fell steadily from about 42 C to about 32 C, roughly 9 to 10 C cooler where vegetation is densest.
 - Below NDVI 0.2 the pattern is flat (about 40 C), so the relationship is not linear across the full range. Possible causes include mixed pixels, shadowed or coastal areas, and bare ground; I did not test these.
 - Values above are read from the chart; replace with exact numbers from the Earth Engine console.
-- ![LST map](images/lst_map.png)
-- ![NDVI map](images/ndvi_map.png)
-- ![Average LST by NDVI bin](images/ndvi_l
+- ![LST map]<img width="716" height="549" alt="lst_map" src="https://github.com/user-attachments/assets/8af4bb0a-c7f1-4ee7-84d6-7b7a4025a2ca" />
+
+- ![NDVI map]<img width="716" height="545" alt="ndvi_map" src="https://github.com/user-attachments/assets/1930b7ff-4560-4b21-9a68-be0b97ae67c0" />
+
+- ![Average LST by NDVI bin]<img width="939" height="342" alt="ndvi_lst_bins" src="https://github.com/user-attachments/assets/5c04b469-8cc5-4fca-b9bd-0fc9fcae90af" />
+
 st_bins.png)
 
 ## Run it yourself
